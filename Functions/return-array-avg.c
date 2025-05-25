@@ -1,0 +1,1 @@
+// Write a function that takes an array and its size and returns the average.
