@@ -1,1 +1,0 @@
-// Write a function that swaps two numbers using pointers.

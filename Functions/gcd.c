@@ -1,1 +1,0 @@
-// Write a function to calculate GCD (HCF) of two numbers using recursion.
